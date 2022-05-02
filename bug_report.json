@@ -1,3 +1,10 @@
 {
-  "bug_report":"32 pages is not enough to accomodate 422 search results"
+  	"ID":"1",
+        "environment":"Win 10 X64, версия 21H1, сборка ОС 19043.1645",
+        "description":"_",
+        "severity":"_",
+        "priority":"_",
+        "STR":"_",
+        "actual_result":"_",
+        "expexted_result":"_"
 }
