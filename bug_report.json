@@ -1,10 +1,16 @@
 {
   	"ID":"1",
-        "environment":"Win 10 X64, версия 21H1, сборка ОС 19043.1645",
-        "description":"_",
-        "severity":"_",
-        "priority":"_",
-        "STR":"_",
-        "actual_result":"_",
-        "expexted_result":"_"
+        "environment":[
+		"Win 10 X64",
+		"версия 21H1",
+		"сборка ОС 19043.1645"],
+        "description":"First name field should accept up to 31 characters (no 30 as it accepts now)",
+        "severity":"Major",
+        "priority":"Medium",
+        "STR":[
+		"1) Go to ITcareer website",
+		"2) Enter 31 Latin letters in the First Name field",
+		"3) Click on the “Submit” button"],
+        "actual_result":"Error message",
+        "expexted_result":"Success message"
 }
